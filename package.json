@@ -30,7 +30,7 @@
     "enzyme-to-json": "3.4.3",
     "node-sass": "4.13.0",
     "npm-package-json-lint": "4.2.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.3.0"
   },
   "dependencies": {
     "classnames": "2.2.6",
